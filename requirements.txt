@@ -2,3 +2,8 @@
 deepeval
 dotenv
 
+langchain
+ragas
+langchain-core
+langchain-community
+
