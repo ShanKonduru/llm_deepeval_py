@@ -28,7 +28,7 @@ def test_case_4():
     data = {
         "question": [
             "What is the capital of Canada?",
-            "What are the popular winter sports in Canada?",
+            "What are the popular sports in Canada?",
             "What are the two official languages of Canada?",
             "How many lakes are in canada?"
         ],
@@ -41,12 +41,12 @@ def test_case_4():
         "answer": [
             "Ottawa is the capital of Canada",
             "Ice Hockey and Lacrosse",
-            "French and English are Two official languages in Canada",
-            "Two million lakes"
+            "French and English",
+            "2.0 million lakes"
         ],
         "contexts": [
             ["Ottawa is the capital city of Canada. It is located in the southern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River."],
-            ["Canada's most popular sport is ice hockey. It's officially recognized as the national winter sport and is widely viewed as a cultural icon in the country. Survey data from The Logit Group indicates that hockey is the favourite sport to watch for Canadians, with around 22% of respondents naming it as their preferred sport."],
+            ["In Canada, ice hockey and lacrosse are the official national sports. Hockey is widely recognized as the most popular sport, followed by soccer and basketball. Other popular sports include baseball, curling, and various other sports."],
             ["Canada has two official languages: English and French"],
             ["Canada is home to over 2 million lakes, representing a significant portion of the world's freshwater resources and a large percentage of Canada's land area. Specifically, it's estimated that nearly 9% of Canada's total land surface is covered by freshwater, according to a report."]
         ],
