@@ -42,7 +42,7 @@ def test_case_4():
             "Ottawa is the capital of Canada",
             "Ice Hockey and Lacrosse",
             "French and English",
-            "2.0 million lakes"
+            "Under 2 million lakes"
         ],
         "contexts": [
             ["Ottawa is the capital city of Canada. It is located in the southern portion of the province of Ontario, at the confluence of the Ottawa River and the Rideau River."],
